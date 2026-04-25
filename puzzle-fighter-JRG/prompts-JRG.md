@@ -31,6 +31,6 @@ Add better visual assets (sprites) for the videogame using this the resources in
 ![Adding-Sprites](image-1.png)
 
 #### Improving Header
-I did a manual fix no prompt needed for this.
+I did a manual fix removin extra content from the image. No prompt needed for this.
 
 ![Adding-Sprites](image-2.png)
